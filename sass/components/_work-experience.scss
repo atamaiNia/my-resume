@@ -1,0 +1,20 @@
+.work-experience__item {
+  margin-bottom: 10px;
+}
+
+.work-experience__position {
+  font-weight: 900;
+}
+
+.responsibilities__list {
+  list-style-type: disc;
+  padding-left: 25px;
+}
+
+.responsibilities__item {
+  color: $primary-text-color;
+}
+
+.responsibilities__item span {
+  color: $secondary-text-color;
+}

@@ -1,0 +1,10 @@
+.education__item {
+  margin-bottom: 10px;
+  &:last-child {
+    margin-bottom: 0px;
+  }
+}
+
+.education__institution {
+  font-weight: 900;
+}
